@@ -1,0 +1,1274 @@
+.crm__icon {
+  background: var(--sprite-sheet-url);
+  background-repeat: no-repeat;
+}
+
+.crm__login__logo {
+  background-position: -603px -555px;
+  width: 110px;
+  height: 18px;
+}
+
+.navbar__expand__collapse__icon {
+  background-position: -703px -53px;
+  width: 20px;
+  height: 14px;
+}
+
+.navbar__logo__icon {
+  background-position: -462px -555px;
+  width: 110px;
+  height: 18px;
+}
+
+.navbar__profile__icon {
+  background-position: -1045px -210px;
+  width: 23px;
+  height: 22px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.navbar__logout__icon {
+  background-position: -702px -272px;
+  width: 20px;
+  height: 18px;
+}
+
+.navbar__avatar__icon {
+  background-position: -658px -271px;
+  width: 20px;
+  height: 20px;
+}
+
+.dashboard__icon {
+  background-position: -334px -51px;
+  width: 18px;
+  height: 19px;
+}
+
+.bookings__icon {
+  background-position: -294px -51px;
+  width: 18px;
+  height: 19px;
+}
+
+.part__code__icon {
+  background-position: -530px -398px;
+  width: 17px;
+  height: 13px;
+}
+
+.waranty__period__icon {
+  background-position: -490px -396px;
+  width: 16px;
+  height: 16px;
+}
+
+.waranty__status__icon {
+  background-position: -451px -396px;
+  width: 13px;
+  height: 16px;
+}
+
+.asset__status__icon {
+  background-position: -767px -395px;
+  width: 18px;
+  height: 18px;
+}
+
+.tatamotors__icon__medium {
+  background-position: -129px -347px;
+  width: 32px;
+  height: 32px;
+}
+
+.hyundai__icon__medium {
+  background-position: -181px -347px;
+  width: 32px;
+  height: 32px;
+}
+
+.mahindra__icon__medium {
+  background-position: -233px -347px;
+  width: 32px;
+  height: 32px;
+}
+
+.kia__icon__medium {
+  background-position: -285px -347px;
+  width: 32px;
+  height: 32px;
+}
+
+.suzuki__icon__medium {
+  background-position: -337px -347px;
+  width: 32px;
+  height: 32px;
+}
+
+.byd__icon__medium {
+  background-position: -389px -347px;
+  width: 32px;
+  height: 32px;
+}
+
+
+.tatamotors__icon__large {
+  background-position: -65px -444px;
+  width: 40px;
+  height: 40px;
+  border-radius: 40px;
+  border: 1px solid white;
+}
+
+.hyundai__icon__large {
+  background-position: -131px -443px;
+  width: 40px;
+  height: 40px;
+  border-radius: 42px;
+  border: 1px solid white;
+}
+
+.mahindra__icon__large {
+  background-position: -197px -443px;
+  width: 41px;
+  height: 40px;
+  border-radius: 40px;
+  border: 1px solid white;
+}
+
+.kia__icon__large {
+  background-position: -265px -443px;
+  width: 40px;
+  height: 40px;
+  border-radius: 40px;
+  border: 1px solid white;
+}
+
+.suzuki__icon__large {
+  background-position: -331px -443px;
+  width: 41px;
+  height: 40px;
+  border-radius: 40px;
+  border: 1px solid white;
+}
+
+.byd__icon__large {
+  background-position: -398px -443px;
+  width: 40px;
+  height: 40px;
+  border-radius: 40px;
+  border: 1px solid white;
+}
+
+.static__icon__large {
+  background-position: -849px -435px;
+  width: 40px;
+  height: 40px;
+  border-radius: 40px;
+  border: 1px solid white;
+}
+
+
+.tatamotors__icon {
+  background-position: -468px -443px;
+  width: 20px;
+  height: 20px;
+}
+
+.hyundai__icon {
+  background-position: -501px -443px;
+  width: 21px;
+  height: 20px;
+}
+
+.mahindra__icon {
+  background-position: -534px -443px;
+  width: 21px;
+  height: 20px;
+}
+
+.kia__icon {
+  background-position: -568px -443px;
+  width: 21px;
+  height: 20px;
+}
+
+.suzuki__icon {
+  background-position: -601px -443px;
+  width: 21px;
+  height: 20px;
+}
+
+.byd__icon {
+  background-position: -634px -443px;
+  width: 21px;
+  height: 20px;
+}
+
+.static__icon {
+  background-position: -763px -445px;
+  ;
+  width: 20px;
+  height: 20px;
+}
+
+.tasks__icon {
+  background-position: -255px -51px;
+  width: 18px;
+  height: 19px;
+}
+
+.customers__icon {
+  background-position: -215px -53px;
+  width: 17px;
+  height: 15px;
+}
+
+.tickets__icon {
+  background-position: -174px -54px;
+  width: 18px;
+  height: 13px;
+
+}
+
+.assets__icon {
+  background-position: -135px -51px;
+  width: 16px;
+  height: 16px;
+}
+
+.sales__icon {
+  background-position: -55px -52px;
+  width: 16px;
+  height: 16px;
+
+}
+
+.organisations__icon {
+  background-position: -94px -52px;
+  width: 18px;
+  height: 16px;
+
+}
+
+.crm__icon__tick {
+  background-position: -66px -355px;
+  width: 12px;
+  height: 9px;
+}
+
+.crm__icon__cross {
+  background-position: -95px -353px;
+  width: 14px;
+  height: 13px;
+}
+
+.crm__sidebar__item:hover .dashboard__icon {
+  background-position: -654px -51px;
+  width: 18px;
+  height: 18px;
+}
+
+.crm__sidebar__item:hover .dashboard__icon,
+.crm__sidebar__item.selected .dashboard__icon {
+  background-position: -654px -51px;
+  width: 18px;
+  height: 18px;
+}
+
+.crm__sidebar__item:hover .bookings__icon,
+.crm__sidebar__item.selected .bookings__icon {
+  background-position: -374px -51px;
+  width: 18px;
+  height: 18px;
+}
+
+.crm__sidebar__item:hover .tasks__icon,
+.crm__sidebar__item.selected .tasks__icon {
+  background-position: -615px -51px;
+  width: 18px;
+  height: 18px;
+}
+
+.crm__sidebar__item:hover .customers__icon,
+.crm__sidebar__item.selected .customers__icon {
+  background-position: -575px -53px;
+  width: 17px;
+  height: 15px;
+}
+
+.crm__sidebar__item:hover .tickets__icon,
+.crm__sidebar__item.selected .tickets__icon {
+  background-position: -534px -54px;
+  width: 18px;
+  height: 13px;
+}
+
+.crm__sidebar__item:hover .assets__icon,
+.crm__sidebar__item.selected .assets__icon {
+  background-position: -495px -51px;
+  width: 16px;
+  height: 16px;
+}
+
+.crm__sidebar__item:hover .sales__icon,
+.crm__sidebar__item.selected .sales__icon {
+  background-position: -415px -52px;
+  width: 16px;
+  height: 16px;
+}
+
+.crm__sidebar__item:hover .organisations__icon,
+.crm__sidebar__item.selected .organisations__icon {
+  background-position: -454px -52px;
+  width: 18px;
+  height: 16px;
+}
+
+
+.crm__up-white-arrow {
+  background-position: -1129px -57px;
+  width: 10px;
+  height: 6px;
+}
+
+.crm__down-white-arrow {
+  background-position: -1129px -57px;
+  width: 10px;
+  height: 6px;
+}
+
+.crm__search__icon {
+  background-position: -794px -52px;
+  width: 17px;
+  height: 16px;
+}
+
+.crm__cross__icon {
+  background-position: -91px -186px;
+  width: 8px;
+  height: 8px;
+}
+
+
+.crm__add__new__btn__icon {
+  background-position: -372px -281px;
+  width: 12px;
+  height: 12px;
+}
+
+.crm__add__new__btn__black__icon {
+  background-position: -129px -96px;
+  width: 12px;
+  height: 12px;
+}
+
+.crm__filter__btn__icon {
+  background-position: -607px -399px;
+  width: 14px;
+  height: 11px;
+}
+
+.crm__groupby__btn__icon {
+  background-position: -324px -99px;
+  width: 10px;
+  height: 6px;
+}
+
+.crm__delete__icon {
+  background-position: -521px -355px;
+  width: 16px;
+  height: 16px;
+}
+
+.crm__unsort__icon {
+  background-position: -259px -97px;
+  width: 12px;
+  height: 10px;
+}
+
+.crm__sort__icon-asc {
+  background-position: -577px -97px;
+  width: 10px;
+  height: 10px;
+}
+
+.crm__sort__icon-desc {
+  background-position: -545px -97px;
+  width: 10px;
+  height: 10px;
+}
+
+.crm__list__view__icon {
+  background-position: -234px -275px;
+  width: 28px;
+  height: 28px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.crm__grid__view__icon {
+  background-position: -299px -275px;
+  width: 28px;
+  height: 28px;
+  cursor: pointer;
+}
+
+.crm__list__view__icon.selected {
+  background-position: -331px -275px;
+  width: 28px;
+  height: 28px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.crm__grid__view__icon.selected {
+  background-position: -265px -274px;
+  width: 28px;
+  height: 28px;
+  cursor: pointer;
+}
+
+.crm__bulk__upload {
+  background-position: -400px -280px;
+  width: 14px;
+  height: 14px;
+}
+
+.crm__person__icon {
+  background-position: -1049px -51px;
+  width: 18px;
+  height: 17px;
+}
+
+.crm__address__icon {
+  background-position: -607px -157px;
+  width: 17px;
+  height: 16px;
+}
+
+.crm__city__icon {
+  background-position: -809px -156px;
+  width: 20px;
+  height: 16px;
+}
+
+.crm__state__icon {
+  background-position: -344px -245px;
+  width: 16px;
+  height: 16px;
+}
+
+.crm_sales_order {
+  background-position: -217px -319px;
+  width: 14px;
+  height: 17px;
+}
+
+.crm__purchase__order__icon {
+  background-position: -97px -319px;
+  width: 14px;
+  height: 17px;
+}
+
+.crm_delivery_doc {
+  background-position: -177px -319px;
+  width: 14px;
+  height: 17px;
+}
+
+.crm__material__doc__icon {
+  background-position: -257px -319px;
+  width: 14px;
+  height: 17px;
+}
+
+.crm__calender__icon {
+  background-position: -1014px -52px;
+  width: 14px;
+  height: 16px;
+}
+
+.crm__country__icon {
+  background-position: -850px -156px;
+  width: 18px;
+  height: 16px;
+}
+
+.crm__manufacturing__date__icon {
+  background-position: -137px -320px;
+  width: 14px;
+  height: 15px;
+}
+
+.crm__pincode__icon {
+  background-position: -384px -245px;
+  width: 16px;
+  height: 16px;
+}
+
+.crm__cancel__icon {
+  background-position: -243px -212px;
+  width: 14px;
+  height: 15px;
+}
+
+.crm__cancel__small__icon {
+  background-position: -320px -213px;
+  width: 12px;
+  height: 12px;
+}
+
+.crm__link__icon {
+  background-position: -163px -210px;
+  width: 19px;
+  height: 18px;
+}
+
+.crm__refresh__icon {
+  background-position: -429px -277px;
+  width: 22px;
+  height: 22px;
+}
+
+.crm__refresh__icon.animate {
+  animation: rotate 3s linear infinite;
+}
+
+.crm__notes__icon {
+  background-position: -530px -241px;
+  width: 16px;
+  height: 18px;
+}
+
+.crm__account__icon {
+  background-position: -167px -157px;
+  width: 15px;
+  height: 16px;
+}
+
+.crm__order__icon {
+  background-position: -730px -156px;
+  width: 14px;
+  height: 17px;
+}
+
+.crm__units__icon {
+  background-position: -590px -241px;
+  width: 17px;
+  height: 16px;
+}
+
+.crm__select__datetime__icon {
+  background-position: -1087px -51px;
+  width: 18px;
+  height: 17px;
+}
+
+.crm__comment__icon {
+  background-position: -126px -211px;
+  width: 20px;
+  height: 19px;
+
+}
+
+.crm__resolve__comment__icon {
+  background-position: -771px -242px;
+  width: 21px;
+  height: 19px;
+}
+
+.crm__close__comment__icon {
+  background-position: -815px -242px;
+  width: 21px;
+  height: 19px;
+}
+
+.crm__download__blue {
+  background-position: -55px -246px;
+  width: 14px;
+  height: 14px;
+}
+
+.crm__file_upload {
+  background-position: -353px -211px;
+  width: 17px;
+  height: 14px;
+}
+
+.crm__err_exclamation {
+  background-position: -91px -246px;
+  width: 14px;
+  height: 13px;
+}
+
+.crm__green_tick {
+  background-position: -127px -249px;
+  width: 10px;
+  height: 8px;
+
+}
+
+.crm__warranty__icon {
+  background-position: -563px -242px;
+  width: 15px;
+  height: 18px;
+}
+
+.crm__warranty__icon__under__warranty {
+  background-position: -734px -242px;
+  width: 15px;
+  height: 18px;
+}
+
+.crm__warranty__icon__out__of__warranty {
+  background-position: -703px -242px;
+  width: 15px;
+  height: 18px;
+}
+
+.crm__warranty__icon__not__started {
+  background-position: -673px -242px;
+  width: 15px;
+  height: 18px;
+}
+
+.crm__info__icon {
+  background-position: -648px -243px;
+  width: 14px;
+  height: 14px;
+}
+
+.crm__drag__icon {
+  background-position: -620px -243px;
+  width: 9px;
+  height: 14px;
+  cursor: pointer;
+}
+
+.crm__down-black-arrow {
+  background-position: -64px -322px;
+  width: 12px;
+  height: 8px;
+}
+
+.crm__download_white__icon {
+  background-position: -736px -271px;
+  width: 18px;
+  height: 18px;
+}
+
+.crm__transport__icon {
+  background-position: -471px -276px;
+  width: 170px;
+  height: 15px;
+}
+
+.crm__bulk_upload_template {
+  background-position: -1289px -43px;
+  width: 1097px;
+  height: 124px;
+}
+
+.crm__bulk__upload_illustration {
+  background-position: -2268px -220px;
+  width: 103px;
+  height: 79px;
+}
+
+.crm__dustbin__grey {
+  background-position: -291px -322px;
+  width: 12px;
+  height: 12px;
+}
+
+.crm__delivery__doc__download__icon {
+  background-position: -471px -242px;
+  width: 16px;
+  height: 18px;
+}
+
+.crm__material__doc__download__icon {
+  background-position: -501px -242px;
+  width: 16px;
+  height: 18px;
+}
+
+.crm__right_arrow_white {
+  background-position: -326px -322px;
+  width: 16px;
+  height: 12px;
+}
+
+.crm__dropdown__single__cross__icon {
+  background-position: -91px -186px;
+  width: 8px;
+  height: 8px;
+  margin: 4px 4px 4px 0 !important;
+}
+
+.crm__accordian__down {
+  background-position: -645px -324px;
+  width: 14px;
+  height: 8px;
+}
+
+.crm__accordian__down__grey {
+  background-position: -788px -321px;
+  width: 14px;
+  height: 8px;
+}
+
+.crm__accordian__up {
+  background-position: -605px -323px;
+  width: 14px;
+  height: 8px;
+}
+
+.crm__eye__icon {
+  background-position: -477px -318px;
+  width: 18px;
+  height: 14px;
+}
+
+.crm__email__icon {
+  background-position: -487px -158px;
+  width: 16px;
+  height: 13px;
+}
+
+.crm__location__icon {
+  background-position: -328px -157px;
+  width: 13px;
+  height: 16px;
+}
+
+.crm__phone__icon {
+  background-position: -528px -158px;
+  width: 14px;
+  height: 14px;
+}
+
+.crm__car__icon {
+  background-position: -367px -158px;
+  width: 16px;
+  height: 13px;
+}
+
+.crm__delivery__car__icon {
+  background-position: -284px -159px;
+  width: 21px;
+  height: 12px;
+}
+
+.crm__booking__ref__cal__icon {
+  background-position: -246px -156px;
+  width: 16px;
+  height: 17px;
+}
+
+.crm__booking__date__icon {
+  background-position: -410px -395px;
+  width: 16px;
+  height: 17px;
+}
+
+.crm__box__icon {
+  background-position: -85px -156px;
+  width: 18px;
+  height: 18px;
+}
+
+.crm__description__icon {
+  background-position: -768px -355px;
+  width: 14px;
+  height: 17px;
+}
+
+.crm__charger_type__icon {
+  background-position: -126px -157px;
+  width: 17px;
+  height: 15px;
+}
+
+.crm__reporting__manager__icon {
+  background-position: -687px -157px;
+  width: 17px;
+  height: 16px;
+}
+
+.crm__see__assets__icon {
+  background-position: -109px -396px;
+  width: 18px;
+  height: 18px;
+}
+
+.crm__attachment__icon {
+  background-position: -88px -210px;
+  width: 16px;
+  height: 18px;
+}
+
+.crm__chat_journey_icon {
+  background-position: -125px -210px;
+  width: 18px;
+  height: 17px;
+}
+
+.crm__full_screen_icon {
+  background-position: -202px -210px;
+  width: 18px;
+  height: 18px;
+}
+
+.crm__hidden_screen_icon {
+  background-position: -279px -211px;
+  width: 17px;
+  height: 16px;
+}
+
+
+.crm__see__assets__light__icon {
+  background-position: -107px -394px;
+  width: 23px;
+  height: 22px;
+}
+
+.crm__car__model__icon {
+  background-position: -347px -397px;
+  width: 16px;
+  height: 14px;
+}
+
+.crm__boking__ref__icon {
+  background-position: -378px -396px;
+  width: 15px;
+  height: 16px;
+}
+
+.crm__circle__icon {
+  background-position: -89px -93px;
+  width: 18px;
+  height: 18px;
+}
+
+.crm__priority__red {
+  background-position: -296px -398px;
+  width: 13px;
+  height: 13px;
+}
+
+.crm__priority__orange {
+  background-position: -736px -398px;
+  width: 13px;
+  height: 13px;
+}
+
+.crm__priority__yellow {
+  background-position: -320px -398px;
+  width: 13px;
+  height: 13px;
+}
+
+.crm__priority__green {
+  background-position: -270px -398px;
+  width: 13px;
+  height: 13px;
+}
+
+.crm__flag__new {
+  background-position: -563px -400px;
+  width: 8px;
+  height: 8px;
+}
+
+.crm__flag__draft {
+  background-position: -149px -396px;
+  width: 19px;
+  height: 18px;
+}
+
+.crm__tick__white {
+  background-position: -224px -512px;
+  width: 10px;
+  height: 9px;
+}
+
+.crm__flag__icon {
+  background-position: -65px -505px;
+  width: 16px;
+  height: 18px;
+}
+
+.crm__alarm__icon {
+  background-position: -105px -505px;
+  width: 16px;
+  height: 18px;
+}
+
+.crm__clock__icon {
+  background-position: -144px -505px;
+  width: 18px;
+  height: 18px;
+}
+
+.crm__assigned__to__icon {
+  background-position: -255px -505px;
+  width: 18px;
+  height: 18px;
+}
+
+.crm__collaborator__icon {
+  background-position: -290px -507px;
+  width: 17px;
+  height: 15px;
+}
+
+.crm__ticket__creation {
+  background-position: -184px -505px;
+  width: 18px;
+  height: 18px;
+}
+
+.crm__ticket__name__icon {
+  background-position: -513px -319px;
+  width: 16px;
+  height: 12px;
+}
+
+.crm__plus__icon {
+  background-position: -637px -357px;
+  width: 12px;
+  height: 12px;
+}
+
+.crm__upload__blue__icon {
+  background-position: -668px -440px;
+  width: 24px;
+  height: 24px;
+}
+
+.crm__red__cross__icon {
+  background-position: -600px -358px;
+  width: 10px;
+  height: 10px;
+}
+
+.crm__pdf__icon {
+  background-position: -738px -355px;
+  width: 15px;
+  height: 17px;
+}
+
+.crm__organisation__icon {
+  background-position: -447px -158px;
+  width: 17px;
+  height: 15px;
+}
+
+.crm__site__icon {
+  background-position: -535px -504px;
+  width: 14px;
+  height: 13px;
+}
+
+.crm__vin__icon {
+  background-position: -592px -504px;
+  width: 18px;
+  height: 15px;
+}
+
+.crm__account__no__icon {
+  background-position: -619px -504px;
+  width: 18px;
+  height: 15px;
+}
+
+.crm__booking__no__icon {
+  background-position: -648px -504px;
+  width: 18px;
+  height: 15px;
+}
+
+.crm__vehicle__no__icon {
+  background-position: -673px -506px;
+  width: 15px;
+  height: 12px;
+}
+
+.crm__customer__id__icon {
+  background-position: -699px -506px;
+  width: 14px;
+  height: 12px;
+}
+
+.crm__chassis__icon {
+  background-position: -566px -503px;
+  width: 11px;
+  height: 16px;
+}
+
+
+.crm__ticket__category__icon {
+  background-position: -563px -318px;
+  width: 14px;
+  height: 15px;
+}
+
+.crm__ticket__subCategory__icon {
+  background-position: -539px -318px;
+  width: 16px;
+  height: 15px;
+}
+
+.crm__pencil__icon {
+  background-position: -678px -397px;
+  width: 15px;
+  height: 15px;
+}
+
+.crm__send__icon {
+  background-position: -708px -397px;
+  width: 15px;
+  height: 15px;
+}
+
+.crm__close_popover__icon {
+  background-position: -174px -610px;
+  width: 12px;
+  height: 12px;
+}
+
+.crm__rating__popover__icon {
+  background-position: -681px -313px;
+  width: 19px;
+  height: 18px;
+}
+
+.crm__history__icon {
+  background-position: -730px -156px;
+  width: 14px;
+  height: 17px;
+}
+
+.crm__file__icon {
+  background-position: -265px -129px;
+  width: 9px;
+  height: 11px;
+  scale: 1.2;
+}
+
+.crm__blue__plus__icon {
+  background-position: -721px -313px;
+  width: 18px;
+  height: 18px;
+}
+
+.crm__blue__minus__icon {
+  background-position: -747px -313px;
+  width: 18px;
+  height: 18px;
+}
+
+.crm__previous__icon {
+  background-position: -68px -612px;
+  width: 6px;
+  height: 8px;
+}
+
+.crm__next__icon {
+  background-position: -216px -612px;
+  width: 6px;
+  height: 8px;
+}
+
+.crm__download_grey {
+  background-position: -773px -273px;
+  width: 14px;
+  height: 14px;
+}
+
+.crm__close_white__icon {
+  background-position: -297px -607px;
+  width: 15px;
+  height: 15px;
+}
+
+.crm__charger__serial__icon {
+  background-position: -503px -504px;
+  width: 17px;
+  height: 14px;
+}
+
+.crm__complete__icon {
+  background-position: -329px -600px;
+  width: 24px;
+  height: 24px;
+}
+
+.crm__dashboard__open__tickets {
+  background-position: -818px -597px;
+  width: 34px;
+  height: 28px;
+  scale: 1.6;
+  margin-left: 12px;
+  margin-top: 12px
+}
+
+.crm__dashboard__unresolved__tickets {
+  background-position: -636px -594px;
+  width: 39px;
+  height: 36px;
+  scale: 1.5;
+  margin-left: 10px;
+  margin-top: 10px
+}
+
+.crm__dashboard__onhold__tickets {
+  background-position: -576px -594px;
+  width: 39px;
+  height: 36px;
+  scale: 1.5;
+  margin-left: 10px;
+  margin-top: 10px
+}
+
+.crm__dashboard__open__irf__icon {
+  background-position: -875px -593px;
+  width: 26px;
+  height: 36px;
+  scale: 1.2;
+  margin-left: 2px;
+  margin-top: 10px
+}
+
+.crm__dashboard__survey__icon {
+  background-position: -760px -591px;
+  width: 30px;
+  height: 40px;
+  scale: 1.1;
+  margin-left: 2px;
+  margin-top: 8px
+}
+
+.crm__dashboard__installation__icon {
+  background-position: -698px -594px;
+  width: 34px;
+  height: 34px;
+  scale: 1.2;
+  margin-left: 2px;
+  margin-top: 10px
+}
+
+.crm__dashboard__commissioned__icon {
+  background-position: -519px -594px;
+  width: 33px;
+  height: 35px;
+  scale: 1.2;
+  margin-left: 2px;
+  margin-top: 10px
+}
+
+.crm__dashboard__calling__icon {
+  background-position: -457px -593px;
+  width: 37px;
+  height: 36px;
+  scale: 1.2;
+  margin-left: 2px;
+  margin-top: 10px
+}
+
+.crm__main__box__icon {
+  background-position: -2240px -371px;
+  width: 121px;
+  height: 138px;
+}
+
+.crm__circular__check {
+  background-position: -756px -506px;
+  width: 16px;
+  height: 16px;
+}
+
+.crm__tag__icon {
+  background-position: -396px -215px;
+  width: 12px;
+  height: 12px;
+}
+
+.closed__irf__icon {
+  background-position: -975px -593px;
+  width: 26px;
+  height: 36px;
+  scale: 1.2;
+  margin-left: 2px;
+  margin-top: 10px
+}
+
+.crm__date__range__selection {
+  background-position: -929px -600px;
+  width: 16px;
+  height: 17px;
+  scale: 0.8;
+}
+
+.crm__rejected__icon {
+  background-position: -814px -506px;
+  scale: 1.15;
+  width: 14px;
+  height: 18px;
+  margin-left: 2px;
+  height: 15px;
+}
+
+.crm__red__cancel__icon {
+  background-position: -99px -639px;
+  width: 16px;
+  height: 16px;
+}
+
+.crm__green__tick__icon {
+  background-position: -67px -639px;
+  width: 16px;
+  height: 16px;
+}
+
+.crm__calendar__icon__date__picker {
+  scale: 0.8;
+  background-position: -785px -505px;
+  width: 16px;
+  height: 17px;
+}
+
+.crm__task__pending {
+  background-position: -727px -505px;
+  width: 14px;
+  height: 15px;
+}
+
+.crm__rejected__icon {
+  background-position: -814px -506px;
+  width: 14px;
+  height: 15px;
+}
+
+.crm__resolution__code__icon {
+  background-position: -794px -395px;
+  width: 18px;
+  height: 18px;
+}
+
+.crm__ticket__response__icon {
+  background-position: -821px -395px;
+  width: 17px;
+  height: 17px;
+}
+
+.crm__map__icon {
+  background-position: -206px -637px;
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+}

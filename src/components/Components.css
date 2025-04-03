@@ -1,0 +1,195 @@
+.icon__button {
+    all: unset !important
+}
+
+.app__layout {
+    width: 100%;
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* NavBar style Starts...................................................................................... */
+
+.app__navbar__profile {
+    display: flex;
+    margin-left: 20px;
+    height: 100%;
+    align-items: center;
+}
+
+.app__navbar__profile:hover {
+    cursor: pointer;
+}
+
+.app__navbar__right {
+    display: flex;
+    padding-right: 25px;
+    align-items: center;
+    justify-content: flex-end;
+    height: 100%;
+}
+
+.app__navbar__left {
+    /* //check here */
+    width: 230px;
+    height: 100%;
+    align-items: center;
+    justify-content: flex-start;
+    display: flex;
+    padding-left: 24px;
+}
+
+.app__navbar__search__wrap {
+    width: calc(100% - 512px);
+    display: flex;
+}
+
+.profile__list {
+    padding: 0px !important;
+}
+
+.navbar__profile__arrows__wrap {
+    width: 20px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+
+
+
+/* SideBar style Starts...................................................................................... */
+.crm__sidebar__item {
+    padding: 8px 16px !important;
+    border-radius: 8px !important;
+    margin: 3px !important;
+}
+
+.crm__sidebar__item:hover,
+.crm__sidebar__item.selected {
+    background-color: var(--secondary-blue-color) !important;
+    width: 0px;
+}
+
+.crm__nested__menu__wrapper .crm__sidebar__item.selected .MuiTypography-root {
+    color: var(--secondary-blue-color) !important;
+    font-weight: 500;
+}
+
+.crm__nested__menu__wrapper .crm__sidebar__item.selected {
+    background-color: var(--secondary-blue-color);
+    border-radius: 8px;
+}
+
+.crm__nested__menu__wrapper {
+    background-color: rgba(0, 0, 0, 0.04);
+}
+
+.crm__sidebar__item .crm__sidebar__text {
+    color:var(--font-color);
+}
+
+.crm__sidebar__item:hover .crm__sidebar__text,
+.crm__sidebar__item.selected .crm__sidebar__text,
+.app__navbar__profile .crm__sidebar__item:hover .crm__sidebar__text {
+    color: white
+}
+
+/* Dashboard style Starts...................................................................................... */
+
+.app__layout__container {
+    height: calc(100dvh - 48px);
+    display: flex;
+    margin-top: 48px;
+    width: 100%;
+
+}
+
+.MuiAppBar-root {
+    box-shadow: none !important;
+}
+
+
+.app__route__container {
+    height: calc(100vh - 52px);
+    width: calc(100vw - 230px);
+    margin-left: 230px;
+    display: flex;
+    flex-direction: column;
+}
+
+.app__route__container.without__side__bar {
+    margin-left:55px !important;
+    width: calc(100vw - 55px);
+}
+
+.app__version {
+    font-size: 12px;
+    color: var(--primary-white-color);
+}
+
+.crm__button__badge__count  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--secondary-blue-color);
+    color: var(--primary-white-color);
+    font-size: 12px !important;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+  }
+
+
+/* Toaster Styling */ 
+
+.toaster__wrap {
+    width: 30vw;
+    align-items: center;
+    padding: 4px 24px 4px 16px !important;
+    border-radius: 8px !important;
+    background-color: var(--font-color) !important;
+}
+.toaster__body{
+    font-family: var(--font-family);
+    font-size: 14px;
+    color: var(--white-color);
+}
+
+.toaster__progress {
+    opacity: 1 !important;
+}
+
+.Toastify__close-button {
+    height: 16px !important;
+    align-self: center !important;
+    color: var(--white-color) !important;
+    opacity: unset !important;
+}
+
+.button__group__footer {
+    display: flex;
+    gap: 16px;
+}
+
+.button__group__footer button {
+    border-radius: 6px !important;
+}
+
+.button__group__footer .primary__btn.disabled {
+    opacity: 0.5;
+}
+  
+.button__group__footer .secondary__btn.disabled {
+    opacity: 0.5;
+}
+
+.engineer__calender__btn {
+    font-size: 12px !important;
+    font-weight: 600;
+    color: var(--secondary-blue-color)
+}

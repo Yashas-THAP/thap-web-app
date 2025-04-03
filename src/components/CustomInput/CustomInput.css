@@ -1,0 +1,31 @@
+.crm__custom__input__field__container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.crm__custom__input__field {
+  width: 100%;
+  font-size: 14px;
+  background: var(--white-color);
+  border-radius: 4px;
+  height: 32px;
+  letter-spacing: -0.01px;
+  display: flex;
+}
+
+.crm__custom__input__field:focus {
+  outline: none;
+}
+
+.crm__custom__input__error__message {
+  font-size: 10px;
+  font-weight: 500;
+  font-family: var(--font-family);
+  color: var(--red-color);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding-left: 8px;
+  padding-top: 5px;
+}

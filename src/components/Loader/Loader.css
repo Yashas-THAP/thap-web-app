@@ -1,0 +1,8 @@
+.linear__progress__loader {
+  background-color: var(--grey-color) !important;
+  height: 3px !important;
+}
+
+.linear__progress__loader .MuiLinearProgress-bar {
+  background-color: var(--secondary-blue-color) !important;
+}
